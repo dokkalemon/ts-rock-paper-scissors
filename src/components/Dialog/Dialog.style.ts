@@ -9,7 +9,8 @@ export const Container = styled('div')({
     left: 0,
     display: 'flex',
     justifyContent: 'center',
-    alignItems: 'center'
+    alignItems: 'center',
+    zIndex: 9999,
 })
 
 export const DialogContainer = styled('div')({

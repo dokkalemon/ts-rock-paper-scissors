@@ -5,7 +5,9 @@ export const Container = styled('div')({
     display: 'flex',
     justifyContent: 'center',
     alignItems: 'center',
-    marginTop: '20px',
+    top: '20px',
+    position: 'fixed',
+
 })
 
 export const BoxContainer = styled('div')({

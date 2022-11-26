@@ -1,8 +1,0 @@
-export { default as Triangle } from './backgrounds/Triangle'
-export { default as Pentagon } from './backgrounds/Pentagon'
-export { default as IconClose } from './icons/IconClose'
-export { default as Lizard } from './icons/Lizard'
-export { default as Paper } from './icons/Paper'
-export { default as Rock } from './icons/Rock'
-export { default as Scissor } from './icons/Scissor'
-export { default as Spock } from './icons/Spock'

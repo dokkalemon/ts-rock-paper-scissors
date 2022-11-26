@@ -1,3 +1,7 @@
 export * from './Header/Header'
 export * from './RulesButton/RulesButton'
 export * from './Dialog/Dialog'
+export * from './Pawn/Pawn'
+export * from './Wrapper/Wrapper'
+export * from './Choice/Choice'
+export * from './Battle/Battle'

@@ -16,6 +16,18 @@ const theme = responsiveFontSizes(
             fontFamily: "'Barlow Semi Condensed', sans-serif",
             fontWeightMedium: 600,
             fontWeightBold: 700,
+        },
+        components: {
+            MuiIconButton: {
+                defaultProps: {
+                    disableRipple: true
+                }
+            },
+            MuiButton: {
+                defaultProps: {
+                    disableRipple: true
+                }
+            }
         }
     })
 )
