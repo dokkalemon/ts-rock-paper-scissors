@@ -12,6 +12,11 @@ const theme = responsiveFontSizes(
                 xl: 1600,
             }
         },
+        typography: {
+            fontFamily: "'Barlow Semi Condensed', sans-serif",
+            fontWeightMedium: 600,
+            fontWeightBold: 700,
+        }
     })
 )
 
